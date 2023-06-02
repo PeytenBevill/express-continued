@@ -22,6 +22,7 @@ A web page has been created for us. Our job is to build the server.
 
 * After "express.static", add body parser middleware to express
   * Remember: `bodyParser.json()`
+  * actually use express.json
 
 ### Create express routes to get all things
 
